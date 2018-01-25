@@ -1,0 +1,3 @@
+include '2018.li.dmitriy.blog.parent.client'
+include '2018.li.dmitriy.blog.parent.controller'
+include '2018.li.dmitriy.blog.parent.stand'
