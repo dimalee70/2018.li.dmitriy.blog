@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2018.li.dmitriy.blog.parent.iml" filepath="$PROJECT_DIR$/2018.li.dmitriy.blog.parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.client/2018.li.dmitriy.blog.parent.client.iml" filepath="$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.client/2018.li.dmitriy.blog.parent.client.iml" group="2018.li.dmitriy.blog.parent.client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.client/2018.li.dmitriy.blog.parent.client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.client/2018.li.dmitriy.blog.parent.client_main.iml" group="2018.li.dmitriy.blog.parent.client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.client/2018.li.dmitriy.blog.parent.client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.client/2018.li.dmitriy.blog.parent.client_test.iml" group="2018.li.dmitriy.blog.parent.client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.controller/2018.li.dmitriy.blog.parent.controller.iml" filepath="$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.controller/2018.li.dmitriy.blog.parent.controller.iml" group="2018.li.dmitriy.blog.parent.controller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.controller/2018.li.dmitriy.blog.parent.controller_main.iml" filepath="$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.controller/2018.li.dmitriy.blog.parent.controller_main.iml" group="2018.li.dmitriy.blog.parent.controller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.controller/2018.li.dmitriy.blog.parent.controller_test.iml" filepath="$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.controller/2018.li.dmitriy.blog.parent.controller_test.iml" group="2018.li.dmitriy.blog.parent.controller" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.stand/2018.li.dmitriy.blog.parent.stand.iml" filepath="$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.stand/2018.li.dmitriy.blog.parent.stand.iml" group="2018.li.dmitriy.blog.parent.stand" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.stand/2018.li.dmitriy.blog.parent.stand_main.iml" filepath="$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.stand/2018.li.dmitriy.blog.parent.stand_main.iml" group="2018.li.dmitriy.blog.parent.stand" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.stand/2018.li.dmitriy.blog.parent.stand_test.iml" filepath="$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent.stand/2018.li.dmitriy.blog.parent.stand_test.iml" group="2018.li.dmitriy.blog.parent.stand" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent_main.iml" filepath="$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent_main.iml" group="2018.li.dmitriy.blog.parent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent_test.iml" filepath="$PROJECT_DIR$/.idea/modules/2018.li.dmitriy.blog.parent_test.iml" group="2018.li.dmitriy.blog.parent" />
+    </modules>
+  </component>
+</project>
