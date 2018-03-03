@@ -5,8 +5,8 @@ import "rxjs/add/operator/toPromise";
 
 @Component({
     selector:"home_app",
-    template: require('./app.component.html'),
-    styles: [require('./app.component.css')]
+    template: '{{text}}'
+    // styles: [require('./app.component.css')]
 })
 export class AppComponent implements OnInit {
     private text:string;
@@ -15,7 +15,7 @@ export class AppComponent implements OnInit {
         this.httpService.get("/getMainText").toPromise().then(
             result =>{
 
-                this.text=result.json().text;
+                this.text=result.json();
             },
             error =>{
                 this.text="Something is wrong";

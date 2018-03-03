@@ -5,12 +5,12 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../2018.li.dmitriy.blog.parent.controller/src/main">
       <sourceFolder url="file://$MODULE_DIR$/../../../2018.li.dmitriy.blog.parent.controller/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../2018.li.dmitriy.blog.parent.controller/src/main/java" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../../2018.li.dmitriy.blog.parent.controller/src/main/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: kz.greetgo.mvc:greetgo.mvc:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: kz.greetgo.depinject:greetgo.depinject:2.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.code.findbugs:annotations:2.0.1" level="project" />
     <orderEntry type="library" name="Gradle: kz.greetgo.mvc:greetgo.mvc.util:2.1.0" level="project" />
     <orderEntry type="library" name="Gradle: kz.greetgo:greetgo.util:2.0.0" level="project" />

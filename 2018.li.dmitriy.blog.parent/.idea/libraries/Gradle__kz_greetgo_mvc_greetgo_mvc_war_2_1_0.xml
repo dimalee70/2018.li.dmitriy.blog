@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: kz.greetgo.mvc:greetgo.mvc.war:2.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/kz.greetgo.mvc/greetgo.mvc.war/2.1.0/9c59e7e8b97d9f1e2b1fd896def6b999f18ca3c3/greetgo.mvc.war-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/kz.greetgo.mvc/greetgo.mvc.war/2.1.0/7a50f9f09bbde2b8c4c33ea3ba5cbb0ffef46c0/greetgo.mvc.war-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

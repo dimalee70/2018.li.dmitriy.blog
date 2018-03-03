@@ -10,6 +10,8 @@
       <module name="2018.li.dmitriy.blog.parent.stand_test" target="1.8" />
       <module name="2018.li.dmitriy.blog.parent_main" target="1.8" />
       <module name="2018.li.dmitriy.blog.parent_test" target="1.8" />
+      <module name="src_main" target="1.8" />
+      <module name="src_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

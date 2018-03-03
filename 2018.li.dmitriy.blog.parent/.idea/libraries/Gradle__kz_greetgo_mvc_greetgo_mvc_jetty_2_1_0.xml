@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: kz.greetgo.mvc:greetgo.mvc.jetty:2.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/kz.greetgo.mvc/greetgo.mvc.jetty/2.1.0/9eb8891599452232e067ca52126c2a50f0b2fc35/greetgo.mvc.jetty-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/kz.greetgo.mvc/greetgo.mvc.jetty/2.1.0/e9b67f6d906415dfe3823c7de0bfe9249dec59f5/greetgo.mvc.jetty-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
