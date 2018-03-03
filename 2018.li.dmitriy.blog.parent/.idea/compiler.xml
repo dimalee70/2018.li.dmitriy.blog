@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="2018.li.dmitriy.blog.parent.client_main" target="1.8" />
+      <module name="2018.li.dmitriy.blog.parent.client_test" target="1.8" />
+      <module name="2018.li.dmitriy.blog.parent.controller_main" target="1.8" />
+      <module name="2018.li.dmitriy.blog.parent.controller_test" target="1.8" />
+      <module name="2018.li.dmitriy.blog.parent.stand_main" target="1.8" />
+      <module name="2018.li.dmitriy.blog.parent.stand_test" target="1.8" />
+      <module name="2018.li.dmitriy.blog.parent_main" target="1.8" />
+      <module name="2018.li.dmitriy.blog.parent_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

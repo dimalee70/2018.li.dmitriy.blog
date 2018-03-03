@@ -1,0 +1,10 @@
+extends _page
+
+block head
+    title Help Desk Stand
+    script window.urlPrefix = 'http://' + location.hostname + ':1314/home/api'
+    base(href="/")
+
+block body
+    home_app
+    script(src="js/main.js", type="text/javascript")
