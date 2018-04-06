@@ -12,7 +12,9 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/2018.li.dmitriy.blog.parent.client" />
             <option value="$PROJECT_DIR$/2018.li.dmitriy.blog.parent.controller" />
+            <option value="$PROJECT_DIR$/2018.li.dmitriy.blog.parent.register" />
             <option value="$PROJECT_DIR$/2018.li.dmitriy.blog.parent.stand" />
+            <option value="$PROJECT_DIR$/register" />
           </set>
         </option>
       </GradleProjectSettings>

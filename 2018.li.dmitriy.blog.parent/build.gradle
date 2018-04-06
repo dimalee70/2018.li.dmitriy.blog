@@ -13,6 +13,13 @@ allprojects{
 	compileTestJava.options.encoding = "UTF-8"
 }
 subprojects{
+	ext.greetgoMvcVersion = "2.1.0"
+	ext.greetgoDepInjectVersion = "2.0.0"
+	ext.guavaVersion = "12.0"
+	ext.greetgoConfVersion = "0.1.5"
+	ext.greetgoDbVersion = "2.0.0"
+	ext.log4g = "1.7.21"
+
 	repositories{
 		mavenCentral()
 		mavenLocal()

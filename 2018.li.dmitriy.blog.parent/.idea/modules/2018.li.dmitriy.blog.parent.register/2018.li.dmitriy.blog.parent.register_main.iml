@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":2018.li.dmitriy.blog.parent.register:main" external.linked.project.path="$MODULE_DIR$/../../../2018.li.dmitriy.blog.parent.register" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="kz.greetgo.2018.li.dmitriy.blog" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../2018.li.dmitriy.blog.parent.register/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../2018.li.dmitriy.blog.parent.register/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../2018.li.dmitriy.blog.parent.register/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../2018.li.dmitriy.blog.parent.register/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="2018.li.dmitriy.blog.parent.controller_main" />
+    <orderEntry type="library" name="Gradle: kz.greetgo.depinject:greetgo.depinject:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: kz.greetgo.db:greetgo.db:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: kz.greetgo:greetgo.conf:0.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.postgresql:postgresql:9.4-1202-jdbc42" level="project" />
+    <orderEntry type="library" name="Gradle: org.mybatis:mybatis:3.4.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.liquibase:liquibase-core:3.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-dbcp2:2.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.ibatis:ibatis-core:3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.ibatis:ibatis-sqlmap:2.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-log4j12:1.7.21" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:annotations:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: cglib:cglib:3.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.13" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-pool2:2.4.2" level="project" />
+    <orderEntry type="library" name="Gradle: commons-logging:commons-logging:1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.21" level="project" />
+    <orderEntry type="library" name="Gradle: log4j:log4j:1.2.17" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm:5.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.ant:ant:1.9.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.ant:ant-launcher:1.9.4" level="project" />
+    <orderEntry type="library" name="Gradle: kz.greetgo.mvc:greetgo.mvc:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: kz.greetgo.mvc:greetgo.mvc.util:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: kz.greetgo:greetgo.util:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.7.3" level="project" />
+    <orderEntry type="library" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.7.3" level="project" />
+  </component>
+</module>

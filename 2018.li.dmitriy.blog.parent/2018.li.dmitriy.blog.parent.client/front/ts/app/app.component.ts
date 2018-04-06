@@ -2,7 +2,6 @@ import {Component, OnInit} from "@angular/core";
 import {HttpService} from "../provider/HttpService";
 import "rxjs/add/operator/toPromise";
 
-
 @Component({
     selector:"home_app",
     template: '{{text}}'

@@ -6,10 +6,14 @@
       <module name="2018.li.dmitriy.blog.parent.client_test" target="1.8" />
       <module name="2018.li.dmitriy.blog.parent.controller_main" target="1.8" />
       <module name="2018.li.dmitriy.blog.parent.controller_test" target="1.8" />
+      <module name="2018.li.dmitriy.blog.parent.register_main" target="1.8" />
+      <module name="2018.li.dmitriy.blog.parent.register_test" target="1.8" />
       <module name="2018.li.dmitriy.blog.parent.stand_main" target="1.8" />
       <module name="2018.li.dmitriy.blog.parent.stand_test" target="1.8" />
       <module name="2018.li.dmitriy.blog.parent_main" target="1.8" />
       <module name="2018.li.dmitriy.blog.parent_test" target="1.8" />
+      <module name="register_main" target="1.8" />
+      <module name="register_test" target="1.8" />
       <module name="src_main" target="1.8" />
       <module name="src_test" target="1.8" />
     </bytecodeTargetLevel>

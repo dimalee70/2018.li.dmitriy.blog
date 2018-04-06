@@ -1,4 +1,6 @@
 dependencies{
-    compile group: 'kz.greetgo.mvc', name: 'greetgo.mvc', version: '2.1.0'
-    compile "kz.greetgo.depinject:greetgo.depinject:2.0.0"
+    compile "kz.greetgo.mvc:greetgo.mvc:$greetgoMvcVersion"
+    compile "kz.greetgo.depinject:greetgo.depinject:$greetgoDepInjectVersion"
+
+    compile "org.slf4j:slf4j-log4j12:$log4g"
 }
